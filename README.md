@@ -3,7 +3,7 @@
 	*Spring Boot Crud Application with Thymeleaf, JPA, Spring Security.
 	
 	* Spring Tool Suite 4 
-		Version: 4.14.0.RELEASE, Build Id: 202203131612
+		Version: 4.14.0.RELEASE, Build Id: 202203131612, :: Spring Boot :: (v2.6.6)
 
 	* SQLyog MYSQL GUI v12.4.3
 	
