@@ -28,9 +28,7 @@
 	    
 		MySQL is used as the database.
 		
-		Open src/main/resources/application.properties
-		  	If you run the application locally, change spring.datasource.username and 			spring.datasource.password as per your mysql installation
-			The project is created with Maven.
+		Open src/main/resources/application.properties.
 			
 		3. Launch
 			To run the application through run spring boot:
