@@ -22,7 +22,7 @@
 
 	    1. Clone the application
 	    
-	    # $ git clone https:https://github.com/GouthamGuna/learn-spring-boot.git
+	      $ git clone https:https://github.com/GouthamGuna/learn-spring-boot.git
 	    
 	    2. Database Configuration
 	    
@@ -33,11 +33,11 @@
 		3. Launch
 			To run the application through run spring boot:
 			
-			#mvn clean package 
+            * mvn clean package 
 			
-			#mvn clean install
+			* mvn clean install
 			
-			#mvn spring-boot:run
+			* mvn spring-boot:run
 
 # About 
 	
